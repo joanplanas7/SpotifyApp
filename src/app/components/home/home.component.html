@@ -1,0 +1,11 @@
+<app-loading *ngIf="carrega"></app-loading>
+
+<div *ngIf="error" class="alert alert-danger animated fadeIn">
+    <h3>Error</h3>
+    <p>
+        {{ missatgeError }}
+    </p>
+</div>
+
+<app-targetes [items]="canNoves"></app-targetes>
+
