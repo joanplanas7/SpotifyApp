@@ -1,2 +1,2 @@
 # SpotiApp
-Web creada con Angular, en la cual utilizo la Api de Spotify para crear una web en la que puedes escuchar música.
+Web creada con Angular, en la que utilizo el api de Spotify para poder buscar artistas y canciones.
